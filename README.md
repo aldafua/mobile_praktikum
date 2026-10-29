@@ -21,9 +21,9 @@ Mahasiswa Teknik Informatika, UIN Maulana Malik Ibrahim Malang.
 | 07 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Program](https://github.com/aldafua/mobile_praktikum/tree/main/Modul-07) | - |
 | 08 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Program](https://github.com/aldafua/mobile_praktikum/tree/main/Modul-08) | - |
 | 09 | StatefulWidget | [Program](https://github.com/aldafua/mobile_praktikum/tree/main/Modul-09/tasbih_app) | - |
-| 10 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Program](https://github.com/aldafua/mobile_praktikum/tree/main/Modul-10/game_app) | - |
-| 11 | Manajemen State dengan GetX | [Program](https://github.com/aldafua/mobile_praktikum/tree/main/Modul-11/tasbih_getx) | - |
-| UTS | Proyek Ujian Tengah Semester — Jelajah Nusantara | [Program](https://github.com/aldafua/mobile_praktikum/tree/main/UTS-JelajahNusantara) | - |
+| 10 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Program](https://github.com/aldafua/mobile_praktikum/tree/main/Modul-10/game_app) | [Laporan Modul 10](https://github.com/aldafua/mobile_praktikum/blob/main/Laporan/Laporan%20Modul%2010.pdf) |
+| 11 | Manajemen State dengan GetX | [Program](https://github.com/aldafua/mobile_praktikum/tree/main/Modul-11/tasbih_getx) | [Laporan Modul 11](https://github.com/aldafua/mobile_praktikum/blob/main/Laporan/Laporan%20Modul%2011.pdf) |
+| UTS | Proyek Ujian Tengah Semester — Jelajah Nusantara | [Program](https://github.com/aldafua/mobile_praktikum/tree/main/UTS-JelajahNusantara) | [Laporan UTS](https://github.com/aldafua/mobile_praktikum/blob/main/Laporan/Laporan%20UTS.pdf) |
 
 ---
 
